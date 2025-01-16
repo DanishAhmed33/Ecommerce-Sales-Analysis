@@ -57,6 +57,10 @@ This project performs a comprehensive analysis of sales data from a retail store
 - Matplotlib (for visualizations)
 - Jupyter Notebook (for analysis)
 
+- Output:
+- ![image](https://github.com/user-attachments/assets/37c27469-2d93-4350-b8ca-a76c90c97f0a)
+
+
 ## Installation
 To run this project, you need to have Python installed on your machine. Follow these steps to set up the environment:
 

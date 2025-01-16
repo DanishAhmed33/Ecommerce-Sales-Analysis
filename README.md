@@ -60,6 +60,16 @@ This project performs a comprehensive analysis of sales data from a retail store
 - Output:
 - ![image](https://github.com/user-attachments/assets/37c27469-2d93-4350-b8ca-a76c90c97f0a)
 
+![image](https://github.com/user-attachments/assets/5ce72da9-9154-4fd9-97f4-c95196ddc0e9)
+
+![image](https://github.com/user-attachments/assets/8e45eee2-01a6-4106-ae50-95c2dfb06912)
+
+
+![image](https://github.com/user-attachments/assets/b9b6cf4c-3bb5-449a-b295-3b38e16a14b6)
+
+![image](https://github.com/user-attachments/assets/4a743ddd-43ee-4882-bb55-7f9cfbf68aec)
+
+
 
 ## Installation
 To run this project, you need to have Python installed on your machine. Follow these steps to set up the environment:

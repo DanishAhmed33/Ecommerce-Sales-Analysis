@@ -76,7 +76,7 @@ To run this project, you need to have Python installed on your machine. Follow t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sales-analysis.git
+   git clone [https://github.com/yourusername/sales-analysis.git](https://github.com/DanishAhmed33/Ecommerce-Sales-Analysis.git)
    cd sales-analysis
    ```
 
